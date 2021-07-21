@@ -1,0 +1,10 @@
+{
+  "name": "Kaftan",
+  "description": "Kaftan",
+  "scripts": {
+    "start": "lng dev"
+  },
+  "dependencies": {
+    "wpe-lightning-sdk": "github:rdkcentral/Lightning-SDK#bdd0cc540f43289323ed17b19788fe9d9bd4650c"
+  }
+}

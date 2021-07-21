@@ -1,0 +1,6 @@
+{
+  "name": "Kaftan",
+  "identifier": "com.stinsoft.app.KaftanTv",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
